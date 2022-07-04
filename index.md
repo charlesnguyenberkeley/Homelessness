@@ -2,6 +2,8 @@
 
 A few months ago, I saw a homeless man passed away under the cold weather of Winter in his flattened truck along the street in front of my room. This event reminded me that there is a large amount of homeless people in the Bay Area. This number is elevating especially during the Covid pandemic. I see that this issue happened right in front of me and my family; therefore, I would like to do research that conveys a story of homelessness and the solution of building affordable shelters for homeless people in the Bay Area.
 
+
+
 ## Overview
 
 ![Image](SF Homeless 1.jpeg)
@@ -16,6 +18,7 @@ As a percentage of the overall population, the Bay Area has the fifth highest ho
 ![Image](Homelessness rate.png)
 
 
+
 ## Bay Area Gentrification and Displacement Analysis
 
 ![Image](SJM-L-HOMES-O711-90-01.webp)
@@ -26,8 +29,12 @@ According to Zillow in this chart, median prices for single family homes have ri
 
 Despite the median sale price in the Bay Area being high, the selling pace is faster overtime. According to the California Association of Realtors’ chart above, the selling pace in San Mateo, Alameda, Contra Costa, and Santa Clara county is about double faster from 2019 to 2020. Overall, in the nine county Bay Area, the pace is about more than double. This means that the pace of gentrification and displacement in the Bay Area has been about double since 2019. 
 
+
 ![Image](MAP_1_1_Displacement_Gentrification-1000px.png)
 Source: Urban Displacement Project/University of California, Berkeley, 2016
+
+According to the Bay Area Displacement Trends map above, displacement is happening all around the Bay Area in both lower and moderate to high income neighborhoods. In the lower income neighborhoods, displacement happens to force increasing homelessness. There are four major neighborhoods strongly under the effect of gentrification and displacement in lower income. They are at the north-east San Francisco, south San Francisco, downtown San Jose to Santa Clara city, and west to downtown Oakland. 
+
 
 
 ## Homeless Population in the Bay Area
@@ -41,6 +48,8 @@ Amongst the general population of the Bay Area, the homeless population is dispr
 ![Image](Appendix C.png)
 
 ![Image](Appendix D.png)
+
+
 
 ## Homelessness: Causes 
 
@@ -59,6 +68,7 @@ There are also larger historic and economic forces:
 4. Insufficient public resources for psychiatric care
 
 5. Urban development history
+
 
 
 ## Homelessness: Recommendations
