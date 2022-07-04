@@ -15,6 +15,13 @@ As a percentage of the overall population, the Bay Area has the fifth highest ho
 
 ![Image](Homelessness rate.png)
 
+## Bay Area Displacement Trends
+
+
+![Image](SJM-L-HOMES-O711-90-01.webp)
+
+![Image](MAP_1_1_Displacement_Gentrification-1000px.png)
+
 ## Homeless Population in the Bay Area
 
 Amongst the general population of the Bay Area, the homeless population is disproportionately composed of homeless men, unaccompanied youth, and people of color. It is also disproportionately composed of single male minorities over the age of 25, LGBTQ+ communities (25%), long-time residents (56% who lived in their county for more than 10 years, and 89% who lived for more than 1 year) 
