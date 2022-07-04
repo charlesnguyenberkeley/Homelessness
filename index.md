@@ -1,5 +1,7 @@
 # Homelessness: An Urgent Crises in the Bay Area
 
+A few months ago, I saw a homeless man passed away under the cold weather of Winter in his flattened truck along the street in front of my room. This event reminded me that there is a large amount of homeless people in the Bay Area. This number is elevating especially during the Covid pandemic. I see that this issue happened right in front of me and my family; therefore, I would like to do research that conveys a story of homelessness and the solution of building affordable shelters for homeless people in the Bay Area.
+
 ## Overview
 
 ![Image](SF Homeless 1.jpeg)
