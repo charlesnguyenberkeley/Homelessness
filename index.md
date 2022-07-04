@@ -16,15 +16,19 @@ As a percentage of the overall population, the Bay Area has the fifth highest ho
 ![Image](Homelessness rate.png)
 
 
-## Bay Area Displacement Trends
+## Bay Area Gentrification and Displacement Analysis
 
-
-![Image](SJM-L-ZILLOW-0622-90-01.webp)
-![Image](SJM-L-WORST-0320-92.webp)
 ![Image](SJM-L-HOMES-O711-90-01.webp)
+
+According to Zillow in this chart, median prices for single family homes have risen overtime happening in five of seven counties in May. The highest price is in Santa Clara county. Although the median sale price in San Francisco and San Mateo county dropped about one to two percent, the prices are still higher than Santa Clara county. 
+
+![Image](SJM-L-WORST-0320-92.webp)
+
+Despite the median sale price in the Bay Area being high, the selling pace is faster overtime. According to the California Association of Realtors’ chart above, the selling pace in San Mateo, Alameda, Contra Costa, and Santa Clara county is about double faster from 2019 to 2020. Overall, in the nine county Bay Area, the pace is about more than double. This means that the pace of gentrification and displacement in the Bay Area has been about double since 2019. 
 
 ![Image](MAP_1_1_Displacement_Gentrification-1000px.png)
 Source: Urban Displacement Project/University of California, Berkeley, 2016
+
 
 ## Homeless Population in the Bay Area
 
