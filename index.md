@@ -1,4 +1,5 @@
-# Homelessness in the Bay Area
+# Homelessness: An Urgent Crises in the Bay Area
+## An Overview
 
 ![Image](SF Homeless 1.jpeg)
 
