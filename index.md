@@ -1,11 +1,13 @@
 # Homelessness: An Urgent Crises in the Bay Area
-## An Overview
+
+## Overview
 
 ![Image](SF Homeless 1.jpeg)
 
-Homelessness population in recent years in the Bay Area is increasing quicker. Regarding the “Bay Area Homelessness: A Regional View of a Regional Crisis” report that is retrieved from Bay Area Council Economic Institute at http://www.bayareaeconomy.org/report/bay-area-homelessness/, in 2017 there was an estimation of 28,200 individuals were homeless arcross the nine-county Bay Area which was based on Point-in-Time (PIT) counts. This made the Bay Area the nation's third largest population of people who have been experiencing homelessness. 
+Homelessness population in recent years in the Bay Area is increasing quicker. Regarding the “Bay Area Homelessness: A Regional View of a Regional Crisis'' report that is retrieved from Bay Area Council Economic Institute at http://www.bayareaeconomy.org/report/bay-area-homelessness/, in 2017 there was an estimation of 28,200 individuals were homeless across the nine-county Bay Area which was based on Point-in-Time (PIT) counts. This made the Bay Area the nation's third largest population of people who have been experiencing homelessness. 
 
-As a percentage of the overall population, the Bay Area has the fifth highest homeless concentration in the U.S., with 36 homeless individuals for every 10,000 residents, which is behind New York City (89), Los Angeles (54), Seattles/King County (53), and Boston (50). The Bay Area also provides less shelter to its homeless population than other regions. In 2017, the Bay Area sheltered about 33% of its homeless population. Between counties within the Bay Area, there is a large difference number of homeless population. For instance, Solano and Santa Clara counties have the highest unsheltered rates; San Francisco is a leader in providing permanent housing. 
+As a percentage of the overall population, the Bay Area has the fifth highest homeless concentration in the U.S., with 36 homeless individuals for every 10,000 residents, which is behind New York City (89), Los Angeles (54), Seattle's/King County (53), and Boston (50). The Bay Area also provides less shelter to its homeless population than other regions. In 2017, the Bay Area sheltered about 33% of its homeless population. Between counties within the Bay Area, there is a large difference in the number of homeless populations. For instance, Solano and Santa Clara counties have the highest unsheltered rates; San Francisco is a leader in providing permanent housing. 
+ 
 
 ![Image](BayAreaHomesless_PITCount.jpeg)
 
@@ -13,42 +15,62 @@ As a percentage of the overall population, the Bay Area has the fifth highest ho
 
 ## Homeless Population in the Bay Area
 
+Amongst the general population of the Bay Area, the homeless population is disproportionately composed of homeless men, unaccompanied youth, and people of color. It is also disproportionately composed of single male minorities over the age of 25, LGBTQ+ communities (25%), long-time residents (56% who lived in their county for more than 10 years, and 89% who lived for more than 1 year) 
+ 
 ![Image](Homeless Population 1.png)
 
 ![Image](Homeless Population 2.png)
 
-You can use the [editor on GitHub](https://github.com/charlesnguyenberkeley/homelessness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](Appendix C.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](Appendix D.png)
 
-### Markdown
+## Homelessness: Causes 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Homelessness often results from causes and circumstances such as job loss, substance abuse, and eviction. Following chart shows the percentage of these cause factors:
 
-```markdown
-Syntax highlighted code block
+![Image](Appendix B - Primary Causes.png)
 
-# Header 1
-## Header 2
-### Header 3
+There are also larger historic and economic forces:
 
-- Bulleted
-- List
+1. Housing supply and affordability
 
-1. Numbered
-2. List
+2. Insufficient Inventory: shelters, permanent supportive housing, and rapid re-housing
 
-**Bold** and _Italic_ and `Code` text
+3. Political challenges
 
-[Link](url) and ![Image](src)
-```
+4. Insufficient public resources for psychiatric care
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+5. Urban development history
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charlesnguyenberkeley/homelessness/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Homelessness: Recommendations
 
-### Support or Contact
+1. Improve prevention and diversion programs
+
+2. Expand the housing supply available to extremely low-income households
+
+3. Understand and meet the accommodation need
+
+4. Test and rapidly scale new accommodation models
+
+5. Consolidate existing state programs into new State Homeless Service Agency
+
+6. Explore ways to simplify and strengthen the planning and approval process for housing
+
+7. Develop regional homelessness management plans
+
+8. Launch two regional join task forces on funding and technology
+
+9. Build a plan for private and philanthropic capital to discover business cases that could be funded
+
+10. Use technology to improve homeless services
+
+
+
+
+[editor on GitHub](https://github.com/charlesnguyenberkeley/homelessness/edit/gh-pages/index.md) 
+
+Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
