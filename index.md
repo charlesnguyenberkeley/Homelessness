@@ -1,9 +1,20 @@
 # Homelessness in the Bay Area
 
-Homelessness population in recent years in the Bay Area is increasing quicker. Regarding the “Bay Area Homelessness: New Urgency, New Solutions” report that is retrieved from Bay Area Council Economic Institute at http://www.bayareaeconomy.org/report/bay-area-homelessness/, between 2017 and 2020, the Bay Area’s homelessness population increased 6,878 people to a total of 35,118. This number reflects the increase for more than a quarter of the growth in the total U.S. homlessness population.
+![Image](SF Homeless 1.jpeg)
 
-## Homelessness in the Bay Area
-![Image](IMG_3039.jpg)
+Homelessness population in recent years in the Bay Area is increasing quicker. Regarding the “Bay Area Homelessness: A Regional View of a Regional Crisis” report that is retrieved from Bay Area Council Economic Institute at http://www.bayareaeconomy.org/report/bay-area-homelessness/, in 2017 there was an estimation of 28,200 individuals were homeless arcross the nine-county Bay Area which was based on Point-in-Time (PIT) counts. This made the Bay Area the nation's third largest population of people who have been experiencing homelessness. 
+
+As a percentage of the overall population, the Bay Area has the fifth highest homeless concentration in the U.S., with 36 homeless individuals for every 10,000 residents, which is behind New York City (89), Los Angeles (54), Seattles/King County (53), and Boston (50). The Bay Area also provides less shelter to its homeless population than other regions. In 2017, the Bay Area sheltered about 33% of its homeless population. Between counties within the Bay Area, there is a large difference number of homeless population. For instance, Solano and Santa Clara counties have the highest unsheltered rates; San Francisco is a leader in providing permanent housing. 
+
+![Image](BayAreaHomesless_PITCount.jpeg)
+
+![Image](Homelessness rate.png)
+
+## Homeless Population in the Bay Area
+
+![Image](Homeless Population 1.png)
+
+![Image](Homeless Population 2.png)
 
 You can use the [editor on GitHub](https://github.com/charlesnguyenberkeley/homelessness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
