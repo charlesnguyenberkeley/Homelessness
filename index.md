@@ -15,12 +15,16 @@ As a percentage of the overall population, the Bay Area has the fifth highest ho
 
 ![Image](Homelessness rate.png)
 
+
 ## Bay Area Displacement Trends
 
 
+![Image](SJM-L-ZILLOW-0622-90-01.webp)
+![Image](SJM-L-WORST-0320-92.webp)
 ![Image](SJM-L-HOMES-O711-90-01.webp)
 
 ![Image](MAP_1_1_Displacement_Gentrification-1000px.png)
+Source: Urban Displacement Project/University of California, Berkeley, 2016
 
 ## Homeless Population in the Bay Area
 
